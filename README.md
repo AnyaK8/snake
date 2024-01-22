@@ -1,1 +1,1 @@
-AnyaK8/snake.git
+AnyaK8/snake.github.io
